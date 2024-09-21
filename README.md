@@ -1,10 +1,11 @@
 ### Summary
 ### 5 longest Instagram users
-2. '80', 'Darby_Herzog',
-3. '67', 'Emilio_Bernier52',
-4. '63', 'Elenor88',
-5.  '95', 'Nicole71',
-6. '38', 'Jordyn.Jacobson2',
+| Score | Username             |  | Score | Username               |
+|-------|----------------------|--|-------|------------------------|
+| 80    | Darby_Herzog        |  | 95    | Nicole71               |
+| 67    | Emilio_Bernier52    |  | 38    | Jordyn.Jacobson2      |
+| 63    | Elenor88            |  |       |                        |
+
 
 ### What day of the week do most users register on?
 We need to figure out when to schedule an ad campaign
