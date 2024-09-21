@@ -28,29 +28,49 @@ Formula total number of photos/total number of users
 ### total numbers of users who have posted at least one time -<b>There are 74 such users</b>
 
 ### A brand wants to know which hashtags to use in a post, What are the top 5 most commonly used hashtags?
-| Keyword     | Count |
-|-------------|-------|
-| smile       | 59    |
-| beach       | 42    |
-| party       | 39    |
-| fun         | 38    |
-| food        | 24    |
-| lol         | 24    |
-| concert     | 24    |
-| hair        | 23    |
-| happy       | 22    |
-| beauty      | 20    |
-| dreamy      | 20    |
-| sunset      | 19    |
-| fashion     | 19    |
-| drunk       | 19    |
-| sunrise     | 17    |
-| landscape   | 17    |
-| style       | 17    |
-| photography | 16    |
-| stunning    | 16    |
-| delicious   | 15    |
-| foodie      | 11    |
+<table>
+  <tr>
+    <td>
+
+      | Keyword     | Count |
+      |-------------|-------|
+      | smile       | 59    |
+      | beach       | 42    |
+      | party       | 39    |
+      | fun         | 38    |
+      | food        | 24    |
+      | lol         | 24    |
+      | concert     | 24    |
+
+    </td>
+    <td>
+
+      | Keyword     | Count |
+      |-------------|-------|
+      | hair        | 23    |
+      | happy       | 22    |
+      | beauty      | 20    |
+      | dreamy      | 20    |
+      | sunset      | 19    |
+      | fashion     | 19    |
+      | drunk       | 19    |
+
+    </td>
+    <td>
+
+      | Keyword     | Count |
+      |-------------|-------|
+      | sunrise     | 17    |
+      | landscape   | 17    |
+      | style       | 17    |
+      | photography | 16    |
+      | stunning    | 16    |
+      | delicious   | 15    |
+      | foodie      | 11    |
+
+    </td>
+  </tr>
+</table>
 
 
 
