@@ -43,6 +43,16 @@ Formula total number of photos/total number of users
 | style       | 17    |  | delicious   | 15    |
 | foodie      | 11    |  |             |       |
 
+### We have a small problem with bots on our site, Find users who have liked every single photo on the site.
+| Rank | Username                 | Score |  | Rank | Username                   | Score |
+|------|--------------------------|-------|--|------|----------------------------|-------|
+| 5    | Aniya_Hackett           | 257   |  | 41   | Mckenna17                  | 257   |
+| 14   | Jaclyn81                 | 257   |  | 54   | Duane60                    | 257   |
+| 21   | Rocio33                 | 257   |  | 57   | Julien_Schmidt             | 257   |
+| 24   | Maxwell.Halvorson      | 257   |  | 66   | Mike.Auer39                | 257   |
+| 36   | Ollie_Ledner37          | 257   |  | 71   | Nia_Haag                   | 257   |
+| 75   | Leslie67                 | 257   |  | 76   | Janelle.Nikolaus81        | 257   |
+| 91   | Bethany20                | 257   |  |      |                            |       |
 
 
 
