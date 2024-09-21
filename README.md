@@ -38,14 +38,11 @@ Formula total number of photos/total number of users
 | food        | 24    |  | sunset      | 19    |
 | lol         | 24    |  | fashion     | 19    |
 | concert     | 24    |  | drunk       | 19    |
-|             |       |  |             |       |
-|             |       |  |             |       |
-| Keyword     | Count |  | Keyword     | Count |
-
 | sunrise     | 17    |  | photography | 16    |
 | landscape   | 17    |  | stunning    | 16    |
 | style       | 17    |  | delicious   | 15    |
 | foodie      | 11    |  |             |       |
+
 
 
 
