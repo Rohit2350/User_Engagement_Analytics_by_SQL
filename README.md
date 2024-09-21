@@ -41,7 +41,7 @@ Formula total number of photos/total number of users
 |             |       |  |             |       |
 |             |       |  |             |       |
 | Keyword     | Count |  | Keyword     | Count |
-|-------------|-------|--|-------------|-------|
+
 | sunrise     | 17    |  | photography | 16    |
 | landscape   | 17    |  | stunning    | 16    |
 | style       | 17    |  | delicious   | 15    |
