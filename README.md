@@ -1,3 +1,4 @@
+### This project conducts a comprehensive analysis of Instagram user engagement, focusing on registration patterns, posting frequency, and user interactions with the help of SQL.
 # Summary of Instagram User Analysis
 
 ## 1. Longest Active Instagram Users
